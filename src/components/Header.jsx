@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 const Header = () => {
   return (
-    <div>
-          <h1>THIS IS MY FIRST WEBSITE</h1>
-    </div>
+    <>
+      <h1>THIS IS MY FIRST WEBSITE</h1>
+      <h2>This text was not there before</h2>
+  
+    </>
   )
 }
 
