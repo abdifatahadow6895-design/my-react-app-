@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function Counter() {
+function Tiriye() {
   const [count, setCount] = useState(10);
 
   return (
@@ -12,4 +12,4 @@ function Counter() {
     </div>
   );
 }
-export default Counter;
+export default Tiriye;
